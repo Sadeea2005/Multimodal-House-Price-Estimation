@@ -1,7 +1,12 @@
 # 🏠 Multimodal House Price Estimation (Visual + Textual Features)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multimodal-house-price-estimation-vgpdojkibbmqdey452dmgt.streamlit.app/)
+
+🌐 **Live Deployed Web App**: **[https://multimodal-house-price-estimation-vgpdojkibbmqdey452dmgt.streamlit.app/](https://multimodal-house-price-estimation-vgpdojkibbmqdey452dmgt.streamlit.app/)**
+
 An end-to-end **Multimodal Machine Learning & Computer Vision** project and interactive **Streamlit Web Application** that estimates residential house prices by combining **Visual Features (SIFT Keypoints from 4 room viewpoints)** and **Engineered Tabular Features**.
 
+- **Live Demo**: [Multimodal House Price Estimation on Streamlit Cloud](https://multimodal-house-price-estimation-vgpdojkibbmqdey452dmgt.streamlit.app/)
 - **Dataset**: [Houses Dataset (535 Properties with 4 Photos Each)](https://github.com/emanhamed/Houses-dataset)
 - **Original Analysis**: See [House Price Estimation.ipynb](House%20Price%20Estimation.ipynb) and [Report.pdf](Report.pdf).
 
