@@ -1,0 +1,82 @@
+[
+  {
+    "house_id": 1,
+    "bedrooms": 4,
+    "bathrooms": 4.0,
+    "area": 4053,
+    "zipcode": 85255,
+    "actual_price": 869500.0
+  },
+  {
+    "house_id": 2,
+    "bedrooms": 4,
+    "bathrooms": 3.0,
+    "area": 3343,
+    "zipcode": 36372,
+    "actual_price": 865200.0
+  },
+  {
+    "house_id": 3,
+    "bedrooms": 3,
+    "bathrooms": 4.0,
+    "area": 3923,
+    "zipcode": 85266,
+    "actual_price": 889000.0
+  },
+  {
+    "house_id": 4,
+    "bedrooms": 5,
+    "bathrooms": 5.0,
+    "area": 4022,
+    "zipcode": 85262,
+    "actual_price": 910000.0
+  },
+  {
+    "house_id": 5,
+    "bedrooms": 3,
+    "bathrooms": 4.0,
+    "area": 4116,
+    "zipcode": 85266,
+    "actual_price": 971226.0
+  },
+  {
+    "house_id": 11,
+    "bedrooms": 5,
+    "bathrooms": 5.0,
+    "area": 4829,
+    "zipcode": 85266,
+    "actual_price": 519200.0
+  },
+  {
+    "house_id": 26,
+    "bedrooms": 4,
+    "bathrooms": 4.0,
+    "area": 4954,
+    "zipcode": 85262,
+    "actual_price": 1290000.0
+  },
+  {
+    "house_id": 51,
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "area": 1594,
+    "zipcode": 81521,
+    "actual_price": 214900.0
+  },
+  {
+    "house_id": 101,
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "area": 1288,
+    "zipcode": 91901,
+    "actual_price": 549000.0
+  },
+  {
+    "house_id": 201,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "area": 1056,
+    "zipcode": 94501,
+    "actual_price": 739000.0
+  }
+]

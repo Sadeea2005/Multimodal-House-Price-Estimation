@@ -1,0 +1,5 @@
+# Ignore full raw dataset when pushing to GitHub / Streamlit Cloud (sample_houses/ and models/ are included for fast cloud deployment)
+data/
+__pycache__/
+*.pyc
+.DS_Store

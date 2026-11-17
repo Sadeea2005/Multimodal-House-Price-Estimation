@@ -1,0 +1,50 @@
+{
+  "Random Forest Regressor": {
+    "MAE_log": 0.4074,
+    "R2": 0.5823,
+    "MAE_dollar": 199882.83,
+    "Category": "Advanced ML"
+  },
+  "XGBoost Regressor": {
+    "MAE_log": 0.4317,
+    "R2": 0.499,
+    "MAE_dollar": 223763.29,
+    "Category": "Advanced ML"
+  },
+  "Decision Tree Regressor": {
+    "MAE_log": 0.4517,
+    "R2": 0.4735,
+    "MAE_dollar": 215243.1,
+    "Category": "Classic ML"
+  },
+  "Support Vector Regressor": {
+    "MAE_log": 0.5396,
+    "R2": 0.3503,
+    "MAE_dollar": 247126.29,
+    "Category": "Advanced ML"
+  },
+  "Ridge Regression": {
+    "MAE_log": 0.5841,
+    "R2": 0.2242,
+    "MAE_dollar": 314988.15,
+    "Category": "Classic ML"
+  },
+  "Linear Regression": {
+    "MAE_log": 0.5811,
+    "R2": 0.2337,
+    "MAE_dollar": 314182.62,
+    "Category": "Classic ML"
+  },
+  "CatBoost Regressor (Notebook Benchmark)": {
+    "MAE_log": 0.4336,
+    "R2": 0.5197,
+    "MAE_dollar": 182450.0,
+    "Category": "Advanced ML"
+  },
+  "Multi-Channel CNN+MLP (Notebook Benchmark)": {
+    "MAE_log": 0.461,
+    "R2": 0.4019,
+    "MAE_dollar": 215000.0,
+    "Category": "Deep Learning"
+  }
+}
